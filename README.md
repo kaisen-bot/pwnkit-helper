@@ -1,7 +1,10 @@
-<h1>Pkexec Local Privilege Escalation [PwnKit Exploit](https://github.com/ly4k/PwnKit) source. </h1>
-<h2>If You Want To Know More About This Exploit, Check -> [CVE-2021-4034](https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034)</h2>
+<h1>Pkexec Local Privilege Escalation 
 
----
+[PwnKit Exploit](https://github.com/ly4k/PwnKit) source. </h1>
+<h2>If You Want To Know More About This Exploit, Check: 
+
+[CVE-2021-4034](https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034)</h2>
+
 
 <h3>This Exploit Helper Work Fine With Python3, And Make Sure You Installed The Packages.</h3>
 
